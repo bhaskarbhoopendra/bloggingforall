@@ -1,0 +1,41 @@
+.img-thumbnail img{
+    width: 100%;
+}
+
+.img-thumbnail{
+    padding:0;
+}
+.deleteForm{
+    display: inline;
+}
+.form{
+      margin-top: 5%;
+    background-color: #fff;
+    height: 400px;
+    width:80%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.form-control{
+    margin: 8px 8px;
+    padding: 10px;
+    border: 1px solid teal;
+}
+
+img{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.name{
+    font-size:20px;
+    text-transform:uppercase;
+    margin-top: 10px;
+    font-family:sans-serif;
+    color:black;
+    text-shadow: 1px 1px green ;
+}
+
+
+
+ 
+ 
